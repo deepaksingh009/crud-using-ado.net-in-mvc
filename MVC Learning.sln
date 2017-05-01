@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning", "Learning\Learning.csproj", "{69E5177B-F863-4FDD-BCAE-27B5F5467916}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{F20EF2B7-045D-4A08-9904-B0D2D722F59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud", "Crud\Crud.csproj", "{72FCA4C1-BCC1-4C64-BED5-ACF3A136D4A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{69E5177B-F863-4FDD-BCAE-27B5F5467916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69E5177B-F863-4FDD-BCAE-27B5F5467916}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69E5177B-F863-4FDD-BCAE-27B5F5467916}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69E5177B-F863-4FDD-BCAE-27B5F5467916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20EF2B7-045D-4A08-9904-B0D2D722F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20EF2B7-045D-4A08-9904-B0D2D722F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20EF2B7-045D-4A08-9904-B0D2D722F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20EF2B7-045D-4A08-9904-B0D2D722F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FCA4C1-BCC1-4C64-BED5-ACF3A136D4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FCA4C1-BCC1-4C64-BED5-ACF3A136D4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FCA4C1-BCC1-4C64-BED5-ACF3A136D4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FCA4C1-BCC1-4C64-BED5-ACF3A136D4A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

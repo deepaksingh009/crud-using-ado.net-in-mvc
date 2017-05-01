@@ -1,0 +1,5 @@
+C:\Users\work\Documents\Visual Studio 2017\Projects\MVC Learning\Data\bin\Debug\Data.dll
+C:\Users\work\Documents\Visual Studio 2017\Projects\MVC Learning\Data\bin\Debug\Data.pdb
+C:\Users\work\Documents\Visual Studio 2017\Projects\MVC Learning\Data\obj\Debug\Data.dll
+C:\Users\work\Documents\Visual Studio 2017\Projects\MVC Learning\Data\obj\Debug\Data.pdb
+C:\Users\work\Documents\Visual Studio 2017\Projects\MVC Learning\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
